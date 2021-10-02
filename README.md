@@ -22,7 +22,7 @@
 
 <hr>   
 
-🎓 I am [Carlos Monge](https://github.com/Cmonge135), a **Cross Platform Developer** **City Carrier Assistant (CCA)** and **Journeyman Electrician** (specializing in **Full-Stack Web Development**) pursuing my Bachelors in **Computer Science & Engineering** to become a Full Stack Web Developer.  
+🎓 I am [Carlos Monge](https://github.com/Cmonge135), a **City Carrier Assistant (CCA)** and **Journeyman Electrician**  pursuing my Bachelors in **Computer Science & Engineering** to become a **Full Stack Web Developer**.  
 
 
 🖥️ I enjoy contributing to **Open Source Projects** and am really enthusiastic about learning new technology. In 2019 I learnt **Wordpress**, **Affiliate Marketing** and a bit about **Python**. I also got started with [freelancing](https://upwork.com) and [blogging](https://actitudvisionaria.com) recently.  
@@ -50,7 +50,7 @@
 
 💬 Ask me about anything, I am happy to help.  
 
-⚡️ CodeAnyWeb: My future Project where I'll teach programming in Spanish.  
+⚡️ CodeAnyWeb: My future Project where I'll teach programming both in Spanish and English.  
 
 📧 How to reach me: contact@carlosmonge.com  
  
