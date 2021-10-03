@@ -1,6 +1,5 @@
 <div align="center">
-    <h1>Hi There, I'm <a href="https://carlosmonge.com">Carlos Monge</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-    </h1>
+    <h1>Hi There, I am <a href="https://carlosmonge.com">Carlos Monge</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
     <!-- <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20">  -->
 
 ![Profile views](https://gpvc.arturio.dev/CarlosMongeJr)
@@ -12,7 +11,7 @@
 
 <div align="center">
     <h2> Full-Stack Developer | Freelancer | Solopreneur </h2>
-    <p> I'm a full-stack developer looking for Freelance projects/internship opportunities.</p>
+    <p> I'm a full-stack developer looking for Freelance projects and internship opportunities.</p>
 </div>
 
 <hr>
@@ -22,13 +21,13 @@
 
 <hr>   
 
-🎓 I am [Carlos Monge](https://github.com/CarlosMongeJr), a **Journeyman Electrician**  pursuing my Bachelors in **Computer Science & Engineering** to become a **Full Stack Web Developer**.  
+🎓 I am [Carlos Monge](https://github.com/CarlosMongeJr), a **Journeyman Electrician**  pursuing a Bachelors in **Computer Science**.  
 
 
-🖥️ I enjoy contributing to **Open Source Projects** and am really enthusiastic about learning new technology. In 2019 I learned **Wordpress**, **Affiliate Marketing** and a bit about **Python**. I also got started with [freelancing](https://upwork.com) and [blogging](https://actitudvisionaria.com) recently.  
+🖥️ I enjoy contributing to **Open Source Projects** and am really enthusiastic about learning new technologies. In 2019 I learned **Wordpress** and **Affiliate Marketing**. I also got started with [freelancing](https://upwork.com) recently.  
 
 
-🎹 Outside the world of tech too, I love pushing myself to develop new skills ranging from **piano**, **boxing**, **sketching/drawing**, **electronics tech** to some wacky ones like **juggle** (aiming for mastery only **piano** and **boxing** though).🥊  
+🎹 Outside the world of tech too, I love pushing myself to develop new skills ranging from **piano**, **boxing**, **sketching**, **electronics tech** to some wacky ones like **juggle** (aiming for mastery only **piano** and **boxing** though).🥊  
 
 📚 I love reading books on **personal development** & **financial literacy**. My favorites one are **Los 7 Secretos Para El Exito** by _Andres Panasiuk_ in the genre of personal development and **Rich Dad Poor Dad** by _Robert Kiyosaki_ in the genre of financial literacy.  
 
@@ -44,7 +43,7 @@
 
 🌱 Available for Freelance projects and internship opportunities.  
 
-👯 I’m looking to collaborate on [Codecademy Docs](https://github.com/Codecademy/docs) and [Open Source Projects](https://github.com/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22+)  
+👯 I’m looking to collaborate on [Open Source Projects](https://github.com/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22+)  
 
 😭 I’m looking for help with Data Structures and Algorithms   
 
@@ -121,9 +120,9 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="postman logo" title="postman" height="25" />
 &nbsp;
-<a href="https://google.com" target="_blank"><img src="https://img.shields.io/badge/Handlebars.js-282C34?logo=Handlebars.js&logoColor=FF6C37" alt="Handlebars.js logo" title="Handlebars.js" height="25" /></a>
+<img src="https://img.shields.io/badge/Handlebars.js-282C34?logo=Handlebars.js&logoColor=FF6C37" alt="Handlebars.js logo" title="Handlebars.js" height="25" />
 &nbsp;
-<a href="https://google.com" target="_blank"><img src="https://img.shields.io/badge/Bash-282C34?logo=GNUBash&logoColor=000" alt="GNUBash logo" title="GNUBash" height="25" /></a>
+<img src="https://img.shields.io/badge/Bash-282C34?logo=GNUBash&logoColor=000" alt="GNUBash logo" title="GNUBash" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/VSCode-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
 &nbsp;
@@ -149,9 +148,9 @@
 &nbsp;
 <a href="https://github.com/CarlosMongejr" target="_blank"><img src="https://img.shields.io/badge/GitHub-CarlosMongejr-282C34?logo=GitHub&logoColor=181717" alt="Github logo" title="CarlosMongejr" height="25" /></a>
 &nbsp;
-<img src="https://img.shields.io/badge/Instagram-carlos__mongee-282C34?logo=Instagram&logoColor=E84D3D" alt="Instagram logo" title="carlos_mongee" height="25" />
+<a href="https://www.instagram.com/carlos_mongee/" target="_blank"><img src="https://img.shields.io/badge/Instagram-carlos__mongee-282C34?logo=Instagram&logoColor=E84D3D" alt="Instagram logo" title="carlos_mongee" height="25" /></a>
 &nbsp;
-<a href="mailto:contact@carlosmonge.com" target="_blank"><img src="https://img.shields.io/badge/E--mail-contact@carlosmonge.com-282C34?logo=Mail.Ru&logoColor=005FF9" alt="Mail.Ru logo" title="contact@carlosmonge.com" height="25" /></a>
+<a href="mailto:contact@carlosmonge.com" target="_blank"><img src="https://img.shields.io/badge/E--mail-contact@carlosmonge.com-282C34?logo=Mail.Ru&logoColor=005FF9" alt="Mailto logo" title="contact@carlosmonge.com" height="25" /></a>
 &nbsp;
 <a href="https://google.com" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-carlos.monge-282C34?logo=BuyMeACoffee&logoColor=ffdd00" alt="BuyMeACoffee logo" title="carlos.monge" height="25" /></a>
 
