@@ -3,15 +3,15 @@
     </h1>
     <!-- <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20">  -->
 
-![Profile views](https://gpvc.arturio.dev/Cmonge135)
+![Profile views](https://gpvc.arturio.dev/CarlosMongeJr)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=Cmonge135.visitor-badge)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=CarlosMongeJr.visitor-badge)
 
 
 </div>
 
 <div align="center">
-    <h2> Full-Stack Developer | Freelancer | Graphic Designer | Solopreneur </h2>
+    <h2> Full-Stack Developer | Freelancer | Solopreneur </h2>
     <p> I'm a full-stack developer looking for Freelance projects/internship opportunities.</p>
 </div>
 
@@ -22,17 +22,17 @@
 
 <hr>   
 
-🎓 I am [Carlos Monge](https://github.com/Cmonge135), a **City Carrier Assistant (CCA)** and **Journeyman Electrician**  pursuing my Bachelors in **Computer Science & Engineering** to become a **Full Stack Web Developer**.  
+🎓 I am [Carlos Monge](https://github.com/CarlosMongeJr), a **Journeyman Electrician**  pursuing my Bachelors in **Computer Science & Engineering** to become a **Full Stack Web Developer**.  
 
 
-🖥️ I enjoy contributing to **Open Source Projects** and am really enthusiastic about learning new technology. In 2019 I learnt **Wordpress**, **Affiliate Marketing** and a bit about **Python**. I also got started with [freelancing](https://upwork.com) and [blogging](https://actitudvisionaria.com) recently.  
+🖥️ I enjoy contributing to **Open Source Projects** and am really enthusiastic about learning new technology. In 2019 I learned **Wordpress**, **Affiliate Marketing** and a bit about **Python**. I also got started with [freelancing](https://upwork.com) and [blogging](https://actitudvisionaria.com) recently.  
 
 
-🎹 Outside the world of tech too, I love pushing myself to develop new skills ranging from **piano**, **soccer**, **boxing**, **sketching/drawing**, **electronics tech** to some wacky ones like **juggle** (aiming for mastery only **piano** and **boxing** though).🥊  
+🎹 Outside the world of tech too, I love pushing myself to develop new skills ranging from **piano**, **boxing**, **sketching/drawing**, **electronics tech** to some wacky ones like **juggle** (aiming for mastery only **piano** and **boxing** though).🥊  
 
 📚 I love reading books on **personal development** & **financial literacy**. My favorites one are **Los 7 Secretos Para El Exito** by _Andres Panasiuk_ in the genre of personal development and **Rich Dad Poor Dad** by _Robert Kiyosaki_ in the genre of financial literacy.  
 
-✈️ I love traveling as well, even though its been some time since I last travelled. My last trip was a solo trip to **Egypt** and **Jerusalem (Israel)** in 2018.  
+✈️ I love traveling as well, even though its been some time since I last travelled. My last trip was a solo trip to **Egypt** and **Jerusalem ** in 2018.  
 
 <br>
 
@@ -40,7 +40,7 @@
 
 <hr>  
 
-⭐ I’m currently working on a [Bot Assistant](https://github.com/Cmonge135/personal-assistant) and learning **TypeScript**. 
+⭐ I’m currently working on a [Bot](https://github.com/CarlosMongeJr/personal-assistant) and learning **TypeScript**. 
 
 🌱 Available for Freelance projects and internship opportunities.  
 
@@ -50,7 +50,7 @@
 
 💬 Ask me about anything, I am happy to help.  
 
-⚡️ CodeAnyWeb: My future Project where I'll teach programming both in Spanish and English.  
+⚡️ CodeAnyWeb: My future Project where I'll teach programming in Spanish.  
 
 📧 How to reach me: contact@carlosmonge.com  
  
@@ -61,7 +61,7 @@
 
 <hr>
 
-![tokyonight's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cmonge135&show_icons=true&theme=tokyonight)
+![tokyonight's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosMongeJr&show_icons=true&theme=tokyonight)
 
 ⭐ Star me on GitHub — It helps!
 
@@ -147,7 +147,7 @@
 
 <a href="https://linkedin.com/in/carlos-monge" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-carlos--monge-282C34?logo=LinkedIn&logoColor=0A66C2" alt="LinkedIn logo" title="carlos-monge" height="25" /></a>
 &nbsp;
-<a href="https://github.com/Cmonge135" target="_blank"><img src="https://img.shields.io/badge/GitHub-Cmonge135-282C34?logo=GitHub&logoColor=181717" alt="Github logo" title="Cmonge135" height="25" /></a>
+<a href="https://github.com/CarlosMongejr" target="_blank"><img src="https://img.shields.io/badge/GitHub-CarlosMongejr-282C34?logo=GitHub&logoColor=181717" alt="Github logo" title="CarlosMongejr" height="25" /></a>
 &nbsp;
 <img src="https://img.shields.io/badge/Instagram-carlos__mongee-282C34?logo=Instagram&logoColor=E84D3D" alt="Instagram logo" title="carlos_mongee" height="25" />
 &nbsp;
