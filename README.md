@@ -152,6 +152,6 @@
 &nbsp;
 <a href="mailto:contact@carlosmonge.com" target="_blank"><img src="https://img.shields.io/badge/E--mail-contact@carlosmonge.com-282C34?logo=Mail.Ru&logoColor=005FF9" alt="Mailto logo" title="contact@carlosmonge.com" height="25" /></a>
 &nbsp;
-<a href="https://google.com" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-carlos.monge-282C34?logo=BuyMeACoffee&logoColor=ffdd00" alt="BuyMeACoffee logo" title="carlos.monge" height="25" /></a>
+<a href="https://www.buymeacoffee.com/carlos.monge" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-carlos.monge-282C34?logo=BuyMeACoffee&logoColor=ffdd00" alt="BuyMeACoffee logo" title="carlos.monge" height="25" /></a>
 
 <p>
