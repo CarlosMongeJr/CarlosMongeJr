@@ -32,7 +32,7 @@
 
 📚 I love reading books on **personal development** & **financial literacy**. My favorites one are **Los 7 Secretos Para El Exito** by _Andres Panasiuk_ in the genre of personal development and **Rich Dad Poor Dad** by _Robert Kiyosaki_ in the genre of financial literacy.  
 
-✈️ I love traveling as well, even though its been some time since I last travelled. My last trip was a solo trip to **Egypt** and **Jerusalem ** in 2018.  
+✈️ I love traveling as well, even though its been some time since I last travelled. My last trip was a solo trip to **Egypt** and **Jerusalem** in 2018.  
 
 <br>
 
