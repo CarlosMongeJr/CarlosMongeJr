@@ -11,7 +11,7 @@
 
 <div align="center">
     <h2> Full-Stack Developer | Freelancer | Solopreneur </h2>
-    <p> I'm a full-stack developer looking for Freelance projects and internship opportunities.</p>
+    <p> I'm a full-stack developer looking for freelance projects and internship opportunities.</p>
 </div>
 
 <hr>
@@ -29,9 +29,7 @@
 
 🎹 Outside the world of tech too, I love pushing myself to develop new skills ranging from **piano**, **boxing**, **sketching**, **electronics tech** to some wacky ones like **juggle** (aiming for mastery only **piano** and **boxing** though).🥊  
 
-📚 I love reading books on **personal development** & **financial literacy**. My favorites one are **Los 7 Secretos Para El Exito** by _Andres Panasiuk_ in the genre of personal development and **Rich Dad Poor Dad** by _Robert Kiyosaki_ in the genre of financial literacy.  
-
-✈️ I love traveling as well, even though its been some time since I last travelled. My last trip was a solo trip to **Egypt** and **Jerusalem** in 2018.  
+📚 I love reading books on **personal development** & **financial literacy**. My favorites one are **Los 7 Secretos Para El Exito** by _Andres Panasiuk_ in the genre of personal development and **Rich Dad Poor Dad** by _Robert Kiyosaki_ in the genre of financial literacy.   
 
 <br>
 
@@ -146,7 +144,7 @@
 
 <a href="https://linkedin.com/in/carlos-monge" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-carlos--monge-282C34?logo=LinkedIn&logoColor=0A66C2" alt="LinkedIn logo" title="carlos-monge" height="25" /></a>
 &nbsp;
-<a href="https://github.com/CarlosMongejr" target="_blank"><img src="https://img.shields.io/badge/GitHub-CarlosMongeJr-282C34?logo=GitHub&logoColor=181717" alt="Github logo" title="CarlosMongeJr" height="25" /></a>
+<a href="https://github.com/CarlosMongeJr" target="_blank"><img src="https://img.shields.io/badge/GitHub-CarlosMongeJr-282C34?logo=GitHub&logoColor=181717" alt="Github logo" title="CarlosMongeJr" height="25" /></a>
 &nbsp;
 <a href="https://www.instagram.com/carlos_mongee/" target="_blank"><img src="https://img.shields.io/badge/Instagram-carlos__mongee-282C34?logo=Instagram&logoColor=E84D3D" alt="Instagram logo" title="carlos_mongee" height="25" /></a>
 &nbsp;
