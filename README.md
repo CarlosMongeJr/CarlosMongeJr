@@ -146,7 +146,7 @@
 
 <a href="https://linkedin.com/in/carlos-monge" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-carlos--monge-282C34?logo=LinkedIn&logoColor=0A66C2" alt="LinkedIn logo" title="carlos-monge" height="25" /></a>
 &nbsp;
-<a href="https://github.com/CarlosMongejr" target="_blank"><img src="https://img.shields.io/badge/GitHub-CarlosMongejr-282C34?logo=GitHub&logoColor=181717" alt="Github logo" title="CarlosMongejr" height="25" /></a>
+<a href="https://github.com/CarlosMongejr" target="_blank"><img src="https://img.shields.io/badge/GitHub-CarlosMongeJr-282C34?logo=GitHub&logoColor=181717" alt="Github logo" title="CarlosMongeJr" height="25" /></a>
 &nbsp;
 <a href="https://www.instagram.com/carlos_mongee/" target="_blank"><img src="https://img.shields.io/badge/Instagram-carlos__mongee-282C34?logo=Instagram&logoColor=E84D3D" alt="Instagram logo" title="carlos_mongee" height="25" /></a>
 &nbsp;
