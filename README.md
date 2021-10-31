@@ -1,11 +1,7 @@
 <div align="center">
     <h1>Hi There, I am <a href="https://carlosmonge.com">Carlos Monge</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
-    <!-- <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20">  -->
-
-![Profile views](https://gpvc.arturio.dev/CarlosMongeJr)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=CarlosMongeJr.visitor-badge)
-
 
 </div>
 
@@ -37,7 +33,7 @@
 
 <hr>  
 
-⭐ I’m currently working on a [Bot](https://github.com/CarlosMongeJr/personal-assistant) and learning **TypeScript**. 
+⭐ I’m currently working on a **Bot** and learning **TypeScript**. 
 
 🌱 Available for Freelance projects and internship opportunities.  
 
