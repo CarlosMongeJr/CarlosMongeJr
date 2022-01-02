@@ -6,8 +6,8 @@
 </div>
 
 <div align="center">
-    <h2> Full-Stack Developer | Freelancer | Solopreneur </h2>
-    <p> I'm a full-stack developer looking for freelance projects and internship opportunities.</p>
+    <h2> Digital Marketer | Full-Stack Developer | Freelancer </h2>
+    <p> I'm a full-stack developer looking for freelance projects.</p>
 </div>
 
 <hr>
@@ -17,13 +17,11 @@
 
 <hr>   
 
-🎓 I am [Carlos Monge](https://github.com/CarlosMongeJr), a **Journeyman Electrician**  pursuing a Bachelors in **Computer Science**.  
+🎓 I am [Carlos Monge](https://github.com/CarlosMongeJr), a full stack dev looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible.  
 
+🖥️ I enjoy contributing to **Open Source Projects** and am really enthusiastic about learning new technologies. In 2019 I learned **Wordpress** and **Digital Marketing**. I also got started with [freelancing](https://upwork.com) recently.  
 
-🖥️ I enjoy contributing to **Open Source Projects** and am really enthusiastic about learning new technologies. In 2019 I learned **Wordpress** and **Affiliate Marketing**. I also got started with [freelancing](https://upwork.com) recently.  
-
-
-🎹 Outside the world of tech too, I love pushing myself to develop new skills ranging from **piano**, **boxing**, **sketching**, **electronics tech** to some wacky ones like **juggle** (aiming for mastery only **piano** and **boxing** though).🥊  
+🎹 Outside of work, I love pushing myself to develop new skills ranging from **piano**, **boxing**, **sketching**, **electronics tech** to some wacky ones like **juggle**.  
 
 📚 I love reading books on **personal development** & **financial literacy**. My favorites one are **Los 7 Secretos Para El Exito** by _Andres Panasiuk_ in the genre of personal development and **Rich Dad Poor Dad** by _Robert Kiyosaki_ in the genre of financial literacy.   
 
@@ -33,13 +31,13 @@
 
 <hr>  
 
-⭐ I’m currently working on a **Bot** and learning **TypeScript**. 
+⭐ I’m currently working on a **Bot** and learning **CyberSecurity**. 
 
 🌱 Available for Freelance projects and internship opportunities.  
 
 👯 I’m looking to collaborate on [Open Source Projects](https://github.com/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22+)  
 
-😭 I’m looking for help with Data Structures and Algorithms   
+😭 I’m looking for help with Augmented Reality (AR) and Algorithms.   
 
 💬 Ask me about anything, I am happy to help.  
 
@@ -142,7 +140,7 @@
 &nbsp;
 <a href="https://github.com/CarlosMongeJr" target="_blank"><img src="https://img.shields.io/badge/GitHub-CarlosMongeJr-282C34?logo=GitHub&logoColor=181717" alt="Github logo" title="CarlosMongeJr" height="25" /></a>
 &nbsp;
-<a href="https://www.instagram.com/carlos_mongee/" target="_blank"><img src="https://img.shields.io/badge/Instagram-carlos__mongee-282C34?logo=Instagram&logoColor=E84D3D" alt="Instagram logo" title="carlos_mongee" height="25" /></a>
+<a href="https://www.instagram.com/carlosmongejr/" target="_blank"><img src="https://img.shields.io/badge/Instagram-carlosmongejr-282C34?logo=Instagram&logoColor=E84D3D" alt="Instagram logo" title="carlosmongejr" height="25" /></a>
 &nbsp;
 <a href="mailto:contact@carlosmonge.com" target="_blank"><img src="https://img.shields.io/badge/E--mail-contact@carlosmonge.com-282C34?logo=Mail.Ru&logoColor=005FF9" alt="Mailto logo" title="contact@carlosmonge.com" height="25" /></a>
 &nbsp;
