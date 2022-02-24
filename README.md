@@ -31,7 +31,7 @@
 
 <hr>  
 
-⭐ I’m currently working on a **VR & AR Bot** and learning **CyberSecurity**. 
+⭐ I’m currently working on a **VR Bot** and learning **CyberSecurity**. 
 
 🌱 Available for Freelance projects and internship opportunities.  
 
@@ -43,7 +43,7 @@
 
 ⚡️ CodeAnyWeb: My future Project where I'll teach programming in Spanish.  
 
-📧 How to reach me: contact@carlosmonge.com  
+📧 How to reach me: hello@carlosmonge.com  
  
 
 <br>
