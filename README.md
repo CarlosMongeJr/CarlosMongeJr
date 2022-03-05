@@ -19,7 +19,7 @@
 
 🎓 I am [Carlos Monge](https://github.com/CarlosMongeJr), a full stack developer looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible.  
 
-🖥️ I enjoy contributing to **Open Source Projects** and am really enthusiastic about learning new technologies. In 2019 I learned **Wordpress** and **Digital Marketing**. I also got started with [freelancing](https://upwork.com) recently.  
+🖥️ I enjoy contributing to **Open Source Projects** and am really enthusiastic about learning new technologies. In 2019 I learned **Wordpress** and **Digital Marketing**. I also got started with **freelancing** recently.  
 
 🎹 Outside of work, I love pushing myself to develop new skills ranging from **piano**, **boxing**, **sketching**, **electronics tech** to some wacky ones like **juggle**.  
 
@@ -144,8 +144,8 @@
 &nbsp;
 <a href="mailto:contact@carlosmonge.com" target="_blank"><img src="https://img.shields.io/badge/E--mail-contact@carlosmonge.com-282C34?logo=Mail.Ru&logoColor=005FF9" alt="Mailto logo" title="contact@carlosmonge.com" height="25" /></a>
 &nbsp;
-<a href="https://www.buymeacoffee.com/carlos.monge" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-carlos.monge-282C34?logo=BuyMeACoffee&logoColor=ffdd00" alt="BuyMeACoffee logo" title="carlos.monge" height="25" /></a>
+<a href="https://www.buymeacoffee.com/carlosmongejr" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-carlosmongejr-282C34?logo=BuyMeACoffee&logoColor=ffdd00" alt="BuyMeACoffee logo" title="carlosmongejr" height="25" /></a>
 &nbsp;
-<a href="https://www.facebook.com/CarlosMongeJr" target="_blank"><img src="https://img.shields.io/badge/facebook-CarlosMongeJr-282C34?logo=Facebook&logoColor=4267b2" alt="FaceBook logo" title="CarlosMongeJr" height="25" /></a>
+<a href="https://www.facebook.com/CarlosMongeJunior" target="_blank"><img src="https://img.shields.io/badge/facebook-CarlosMongeJunior-282C34?logo=Facebook&logoColor=4267b2" alt="FaceBook logo" title="CarlosMongeJunior" height="25" /></a>
 
 <p>
