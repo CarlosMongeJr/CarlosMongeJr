@@ -1,7 +1,7 @@
 <div align="center">
     <h1>Hi There, I am <a href="https://carlosmonge.com">Carlos Monge</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=CarlosMongeJr.visitor-badge)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=CarlosMongeJr.visitor-badge) -->
 
 </div>
 
@@ -41,9 +41,9 @@
 
 💬 Ask me about anything, I am happy to help.  
 
-⚡️ CodeAnyWeb: My future Project where I'll teach programming in Spanish.  
+⚡️ CodeAnyWeb: My future Project where I'll teach web development in Spanish.  
 
-📧 How to reach me: hello@carlosmonge.com  
+📧 How to reach me: contact@carlosmonge.com  
  
 
 <br>
